@@ -8,3 +8,7 @@ $section-headings-color: #721717 !default;
 
 @import "{{ site.theme }}";
 
+p.post{
+    text-align: justify;
+}
+
