@@ -7,7 +7,9 @@ layout: default
 
 <p class="view">by {{ page.author | default: site.author }}</p>
 
+<p style=" text-align: justify; text-justify: inter-word;">
 {{content}}
+</p>
 
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
