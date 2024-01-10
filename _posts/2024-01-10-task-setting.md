@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: post
 title: "Task Setting"
+description: "Regio BEO Task Setting."
+categories: Knowledge
 ---
 
-# Task Setting
 Hier sind Informationen rund um das Task Setting.
 
 ## Links
@@ -14,5 +15,3 @@ Hier sind Informationen rund um das Task Setting.
 
 ## Best Practice
 Weitere Infos ...
-
-[zurück](./)
