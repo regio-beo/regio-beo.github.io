@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Task Setting"
-description: "Regio BEO Task Setting."
+description: "Regio BEO Task Setting"
 categories: Knowledge
 ---
 

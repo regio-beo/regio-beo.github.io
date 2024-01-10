@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paragliding AR (BSc Thesis)"
-description: "Gleitschirm Fliegen mit Augmented Reality."
+description: "Gleitschirm Fliegen mit Augmented Reality"
 categories: Project
 ---
 

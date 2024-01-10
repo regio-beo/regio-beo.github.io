@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Regio BEO Knowledge Base"
-description: "Anleitungen zum gewinnen."
+description: "Anleitungen zum gewinnen"
 categories: Knowledge
 ---
 
