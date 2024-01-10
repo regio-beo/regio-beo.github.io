@@ -16,7 +16,7 @@ categories:
 </ul>
 
 {% for cat in page.categories %}
-<h2>{{ cat }}</h2>
+<h2 id="{{ cat }}">{{ cat }}</h2>
   {% for post in site.categories[cat] %}
   <h3>{{ post.title }}</h3>
   <p style="margin-top:-1em; color:#aaa;"><small>{{ post.date | date: "%-d %B %Y" }}</small></p>
