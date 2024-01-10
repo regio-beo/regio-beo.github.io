@@ -1,0 +1,12 @@
+# Website
+title: Regio BEO coding space 
+author: Benjamin Fankhauser
+
+# Configuration
+markdown: kramdown
+theme: jekyll-theme-cayman
+
+github:
+  is_project_page: false
+
+
