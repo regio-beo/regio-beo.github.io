@@ -12,7 +12,7 @@ categories:
 <ul>
 {% for cat in page.categories %}
   <li><a href="#{{ cat }}">{{ cat }}</a></li>
-{% endfor }
+{% endfor %}
 </ul>
 
 {% for cat in page.categories %}
