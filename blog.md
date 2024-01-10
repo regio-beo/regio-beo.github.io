@@ -8,8 +8,15 @@ categories:
   - Future-Project
 ---
 
+<h2>Inhalt</h2>
+<ul>
 {% for cat in page.categories %}
-<h1>{{ cat }}</h1>
+  <li><a href="#{{ cat }}">{{ cat }}</a></li>
+{% endfor }
+</ul>
+
+{% for cat in page.categories %}
+<h2>{{ cat }}</h2>
   {% for post in site.categories[cat] %}
   <h3>{{ post.title }}</h3>
   <p style="margin-top:-1em; color:#aaa;"><small>{{ post.date | date: "%-d %B %Y" }}</small></p>
