@@ -4,6 +4,8 @@ title: "Blog"
 categories:
   - Knowledge
   - IGC
+  - Project
+  - Future-Project
 ---
 
 {% for cat in page.categories %}
