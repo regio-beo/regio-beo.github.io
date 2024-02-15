@@ -48,13 +48,13 @@ Dazu lassen wir unsere Simulation wieder laufen. Dieses mal schaue ich nur die R
 
 ![beni_first_raw](../../../../img/ftv-analyzer/beni_first_raw.png)
 
-OK, oben Links ist der Fall, wo ich 1000 Punkte mache und die andern jeweils 0. Offensichtlich gewinne ich da. Deshalb entferne ich unwichtige Punkte und trage eine Winkelhalbierende ein. Auf dieser Linie habe ich und meine Konkurrenz gleich viel Punkte (wir fliegen also Gleichzeitig ins Goal), oberhalb dieser Linie habe ich mehr (ich führe), unterhalb habe ich weniger (ich verfolge). Damit sieht man, ob man vor oder hinter einem Piloten im Ziel sein muss um zu Gewinnen.
+Oben Links ist der Fall, in welchen ich 1000 Punkte mache und die andern jeweils 0. Offensichtlich gewinne ich da. Deshalb entferne ich unwichtige Punkte und trage eine Winkelhalbierende ein. Auf dieser Linie habe ich und meine Konkurrenz gleich viel Punkte (wir fliegen also Gleichzeitig ins Goal), oberhalb dieser Linie habe ich mehr (ich muss führen), unterhalb habe ich weniger (ich darf verfolgen). Damit sieht man, ob man vor oder hinter einem Piloten im Ziel sein muss um dennoch den ersten Rang zu erreichen.
 
 ![beni_first](../../../../img/ftv-analyzer/beni_first.png)
  ![beni_first_zoom](../../../../img/ftv-analyzer/beni_first_zoom.png)
 
-Es gibt einmal der Vergleich mit Georg in Blau: Macht er 950 Punkte oder mehr, kann ich nicht mehr gewinnen (kein Punkt von mir vorhanden, Punkt = Sieg von mir). Aber es gibt auch einen zweiten Bereich: Macht Georg weniger als 650 Punkte werde ich Siegen.
-Als zweites kommt der Vergleich mit Jakob. Man sieht das Kopf an Kopfrennen im Bereich oben rechts. Falls er 1000 Punkte macht, kann ich mit 998 noch gewinnen! Auch werde ich Siegen, falls er weniger als 800 Punkte macht.
+Machen wir zuerst der Vergleich mit Georg in Orange: Macht er ca. 940 Punkte oder mehr, kann ich nicht mehr gewinnen. Es ist kein Punkt von rechts von x=940 vorhanden (Punkt = Sieg von mir). Aber es gibt auch einen zweiten Bereich: Macht Georg weniger als 600 Punkte werde ich Siegen, falls wir Gleichzeitig ins Goal kommen. Macht Georg weniger als 500 Punkte werde ich sogar mit 0 Punkten gegen ihn siegen.
+Als zweites kommt der Vergleich mit Jakob in Blau. Man sieht das Kopf an Kopfrennen im Bereich oben rechts. Falls er 1000 Punkte macht, kann ich mit 998 noch gewinnen! Sobald er 800 Punkte oder weniger macht, wird es für mich deutlich einfacher ihn in der Gesamtrangliste zu bezwingen.
 
 Uff. Jetzt wissen wir endlich was die aktuelle Rangliste eigentlich bedeutet. Jörg, warum zeigt die Rangliste das nicht gleich so an? Nicht jeder kann diese Informationen direkt aus der Tabelle lesen.
 
