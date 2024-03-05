@@ -64,7 +64,7 @@ Wie ging es weiter? Natürlich wird das Rennen in der Luft und nicht am Computer
 
 Die Prognose nimmt an, dass die Piloten am 4. Tag ähnliche Leistung zeigen, wie an den Tagen zuvor. Dabei spricht die Simulation eine deutliche Sprache: 1. Jakob, 2. Beni, 3. Georg, 4. Marco.
 
-Wer hat Schlussendlich gewonnen? Sieh dir selbst das [Ogoy Replay](https://ogoy.app/player/?scene=org8oilewmfd1xktu48vjev) an und gib deinen Tipp ab. Du hast jetzt alle Informationen um ein Auswerter zu sein.
+Wer hat Schlussendlich gewonnen? Sieh dir selbst das [Ogoy Replay](https://ogoy.app/player/?scene=public-8oilewmfd1xktu48vjev) an und gib deinen Tipp ab. Du hast jetzt alle Informationen um ein Auswerter zu sein.
 
 Analyse Task 4. Jakob hat bereits 3 Rennen mehr oder weniger dominiert und hat den 4. Task mit Abstand gewonnen. Sein Gesamtsieg war mehr als verdient. Ich bin auf Rang 2 geflogen. Marco hat sich an meine Fersen gehängt und mit einer super aggressiven Linie viel Zeit aufgehohlt. Damit hat er sich sein Podestplatz gesichert! Georg hatte vom Start an Baustellen und die Bedingungen wurden immer wie schwieriger (undankbar zum Aufhohlen). Leider ist er mit 450 Punkten unter seine Schmerzgrenze gefallen und hat damit den Podestplatz um 30 Punkte gegen Marco verpasst.
 
