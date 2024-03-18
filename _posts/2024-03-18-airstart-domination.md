@@ -13,10 +13,10 @@ Der dominierende Pilot kann entweder angreifen, indem er selbst voraus fliegt, o
 
 Dieser Dominanz-Gleitwinkel entspricht nicht dem Gleitwinkel des Schirms. Das hat mehrere Gründe. Einer ist, dass der obere Pilot schneller fliegen muss um den unteren aufzuhohlen. In der Zeit bis der obere Pilot an der Position des tieferen ist, ist der tiefere bereits etwas weiter geflogen. Ein weiterer Grund ist der Hangaufwind: nah am Gelände haben die tieferen Piloten das bessere Gleiten. Dieser Dominanz-Gleitwinkel kann mit der Erfahrung bestimmt werden. 1:1, also 45 Grad hinter oben einem Piloten zu fliegen ist sehr dominant. In einem 1:3 (18 Grad) hinter einem Piloten zu fliegen, reicht in der Regel um ihn in der nächsten Thermik einhohlen zu können. Fliegt man noch flacher hinter einem Piloten wird es irgendwann unmöglich ihn einhohlen zu können, obwohl man höher ist.
 
-Der Airstart ist der Ort, wo diese Dominanz am besten zum Tragen kommt: gut positionierte Starter können den Pulk verfolgen und sind nicht gezwungen anzugreifen. Erst falls tiefere Piloten versuchen sich abzusetzen müssen diese verfolgt werden. In dieser verwaltenden Position tragen die guten Starter nur ein kleines Risiko und verlieren, je nach Verteilung, nur wenig Leadingpoints.
+Der Airstart ist der Ort, wo diese Dominanz am besten zum Tragen kommt: gut positionierte Starter können den Pulk verfolgen und sind nicht gezwungen anzugreifen. Erst falls tiefere Piloten versuchen sich abzusetzen, müssen diese verfolgt werden. In dieser verwaltenden Position tragen die guten Starter nur ein kleines Risiko und verlieren, je nach Verteilung, nur wenig Leadingpoints.
 
 Wer welchen Piloten dominiert, können wir berechnen.
-Wir berechnen die Richtung der SSS zum WP1 (nach optimiertem Weg) und legen eine Ebene in den Raum. Wir bestimmen diese durch die Normale $ \vec{n} $, welche entsprechend dem Dominanz-Gleitwinkel geneigt ist. Danach schieben wir diese Ebene zum Piloten und berechnen mit dem Skalarprodukt ob ein anderer Pilot ober oder unter der Ebene fliegt. $ A\: dom \:B := (\vec{0B}-\vec{0A}) \cdot \vec{n} < 0 $:
+Wir berechnen die Richtung der SSS zum WP1 (nach optimiertem Weg) und legen eine Ebene in den Raum. Wir bestimmen diese durch die Normale $ \vec{n} $, welche entsprechend dem Dominanz-Gleitwinkel geneigt ist. Danach schieben wir diese Ebene zum Piloten und berechnen mit dem Skalarprodukt ob ein anderer Pilot ober oder unter der Ebene fliegt. $ A~dom\ B := (\vec{0B}-\vec{0A}) \cdot \vec{n} < 0 $:
 
 ![airstart_theory](../../../../../img/airstart/theory.jpg)
 
