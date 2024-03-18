@@ -16,7 +16,7 @@ Dieser Dominanz-Gleitwinkel entspricht nicht dem Gleitwinkel des Schirms. Das ha
 Der Airstart ist der Ort, wo diese Dominanz am besten zum Tragen kommt: gut positionierte Starter können den Pulk verfolgen und sind nicht gezwungen anzugreifen. Erst falls tiefere Piloten versuchen sich abzusetzen müssen diese verfolgt werden. In dieser verwaltenden Position tragen die guten Starter nur ein kleines Risiko und verlieren, je nach Verteilung, nur wenig Leadingpoints.
 
 Wer welchen Piloten dominiert, können wir berechnen.
-Wir berechnen die Richtung der SSS zum WP1 (nach optimiertem Weg) und legen eine Ebene in den Raum. Wir bestimmen diese durch die Normale $\vec{n}$, welche entsprechend dem Dominanz-Gleitwinkel geneigt ist. Danach schieben wir diese Ebene zum Piloten und berechnen mit dem Skalarprodukt ob ein anderer Pilot ober oder unter der Ebene fliegt. $A dom B := (\vec{0B}-\vec{0A}) \cdot \vec{n} < 0$:
+Wir berechnen die Richtung der SSS zum WP1 (nach optimiertem Weg) und legen eine Ebene in den Raum. Wir bestimmen diese durch die Normale $$ \vec{n} $$, welche entsprechend dem Dominanz-Gleitwinkel geneigt ist. Danach schieben wir diese Ebene zum Piloten und berechnen mit dem Skalarprodukt ob ein anderer Pilot ober oder unter der Ebene fliegt. $` A dom B := (\vec{0B}-\vec{0A}) \cdot \vec{n} < 0 `$:
 
 ![airstart_theory](../../../../../img/airstart/theory.jpg)
 
