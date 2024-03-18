@@ -18,7 +18,7 @@ Der Airstart ist der Ort, wo diese Dominanz am besten zum Tragen kommt: gut posi
 Wer welchen Piloten dominiert, können wir berechnen.
 Wir berechnen die Richtung der SSS zum WP1 (nach optimiertem Weg) und legen eine Ebene in den Raum. Wir bestimmen diese durch die Normale $\vec{n}$, welche entsprechend dem Dominanz-Gleitwinkel geneigt ist. Danach schieben wir diese Ebene zum Piloten und berechnen mit dem Skalarprodukt ob ein anderer Pilot ober oder unter der Ebene fliegt. $A dom B := (\vec{0B}-\vec{0A}) \cdot \vec{n} < 0$:
 
-![airstart_theory](../../../../img/airstart/theory.jpg)
+![airstart_theory](../../../../../img/airstart/theory.jpg)
 
 Haben wir die IGCs von einem Task, können wir dies bei einem Airstart auf den gesamten Pulk anwenden. Dazu ermitteln wir die Positionen von jedem Piloten zum Zeitpunkt des Airstarts und berechnen für jeden Piloten, wieviele andere er dominiert.
 
@@ -68,7 +68,7 @@ Montavon Morane          0
 
 Ebenfalls können wir das ganze in 3D visualisieren. Dazu bestimmen wir einen Piloten aus dessen Sicht wir das Feld analysieren (Per Zufall mich selbst) und zeichnen die dominierten Piloten rot.
 
-![regio_verbier_race_start](../../../../img/airstart/regio_verbier_race_start.jpg)
+![regio_verbier_race_start](../../../../../img/airstart/regio_verbier_race_start.jpg)
 
 Ein roter Haufen bedeutet ein guter Start. Bei beiden wurde ein Dominanz-Gleitwinkel von 1:3 verwendet. Würde man unten davongasen wäre der Haufen ziemlich Blau.
 
