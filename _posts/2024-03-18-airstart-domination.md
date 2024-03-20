@@ -13,7 +13,7 @@ Der dominierende Pilot kann entweder angreifen, indem er selbst voraus fliegt, o
 
 Dieser Dominanz-Gleitwinkel entspricht nicht dem Gleitwinkel des Schirms. Das hat mehrere Gründe. Z.B. muss der obere Pilot schneller fliegen, um den unteren aufzuholen. In der Zeit bis der obere Pilot an der Position des tieferen ist, ist der tiefere bereits etwas weiter geflogen. Ein weiterer Grund ist der Hangaufwind: nah am Gelände haben die tieferen Piloten das bessere Gleiten. Dieser Dominanz-Gleitwinkel kann mit der Erfahrung bestimmt werden. 1:1, also 45 Grad hinter oben einem Piloten zu fliegen ist sehr dominant. In einem 1:3 (18 Grad) hinter einem Piloten zu fliegen, reicht in der Regel um ihn in der nächsten Thermik einhohlen zu können. Fliegt man noch flacher hinter einem Piloten wird es irgendwann unmöglich ihn einhohlen zu können, obwohl man höher ist.
 
-Der Airstart ist der Ort, wo diese Dominanz am meisten zum Tragen kommt: gut positionierte Starter können den Pulk verfolgen und sind nicht gezwungen anzugreifen. Erst falls tiefere Piloten versuchen sich abzusetzen, müssen diese verfolgt werden. In dieser verwaltenden Position tragen die guten Starter nur ein kleines Risiko und verlieren nur wenig Leadingpoints, da sie Teil vom Spitzenpulk sind.
+Der Airstart ist der Ort, wo diese Dominanz am meisten zum Tragen kommt: gut positionierte Starter können den Pulk verfolgen und sind nicht gezwungen anzugreifen. Erst wenn tiefere Piloten versuchen sich abzusetzen, müssen diese verfolgt werden. In dieser verwaltenden Position tragen die guten Starter nur ein kleines Risiko und verlieren nur wenig Leadingpoints, da sie Teil vom Spitzenpulk sind.
 
 Die tiefen Starter müssen sich entscheiden, ob sie Leadingpoints wollen und tief vorausfliegen, oder ob sie aufdrehen. Der erste Fall hat ein hohes Risiko und sendet viele Informationen an die Konkurrenz. Beim zweiten Fall, werden sie in einen Verfolgerpulk zurück fallen und verlieren viele Leadingpoints.
 
@@ -84,5 +84,5 @@ Den Code und die Grafiken sind öffentlich verfügbar:
 ### Zukunft
 
 Die Darstellung eignet sich auch angewandt auf das gesamte Race. Damit kann visuell sichtbar gemacht werden, zu welchem Zeitpunkt man die verwaltende Position verloren hat, oder ein Angriff erfolgreich war.
-Interessant ist auch die Frage, ob man diesen Dominanz-Gleitwinkel im Nachhinein bestimmen kann, also in welcher Phase welcher Gleitwinkel noch erfolgreich war.
+Interessant ist auch die Frage, ob man diesen Dominanz-Gleitwinkel im Nachhinein bestimmen kann, also in welcher Phase welcher Dominanz-Gleitwinkel noch erfolgreich war.
 
