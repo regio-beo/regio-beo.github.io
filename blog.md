@@ -2,9 +2,11 @@
 layout: default
 title: "Blog"
 categories:
-  - IGC
   - Project
+  - IGC
+  - GAP  
   - Future-Project
+  - Deprecated
 ---
 
 <h2>Inhalt</h2>

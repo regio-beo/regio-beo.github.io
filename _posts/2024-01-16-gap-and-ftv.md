@@ -2,7 +2,7 @@
 layout: post
 title: "GAP und Fixed Total Validity"
 description: "Wie versteht man die magischen Formeln"
-categories: Knowledge
+categories: GAP
 ---
 
 Verschieden sind die Versuche die Fromeln zu erklären. Hier ist die einzige Anleitung die du jemals benötigst:

@@ -2,7 +2,7 @@
 layout: post
 title: "Dominieren beim Airstart"
 description: "Wer dominiert wer beim Airstart?"
-categories: Project Task
+categories: Knowledge
 ---
 
 Dominieren bedeutet im Wettbewerb, dass man die Position vom vorderen (und tieferen) Piloten durch Vollgasfliegen erreichen kann, in der nächsten Thermik höher ankommt und sich über den dominierten Piloten setzen kann. Dies ist normalerweise der Fall, wenn ein Pilot in einem 45 Grad Winkel hinter einem anderen fliegt. Der Gleitwinkel zwischen diesen beiden Piloten ist 1:1.

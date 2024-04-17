@@ -2,7 +2,7 @@
 layout: post
 title: "How To: Ranglisten und FTV"
 description: "Endlich wurde der Code geknackt: nicht GAP/FTV ist das Problem, sondern die Darstellung könnte besser sein"
-categories: Project
+categories: Knowledge
 ---
 
 Im Jahr 2023 hatten wir am OGO in der Sportklasse eine spannende Situation am Tag 3. Der Wettbewerb dauerte 4 Tage. Jakob hat jeden Task dominant gewonnen, aber einen 0er wegen den Wildschutzzonen kassiert. Aktuell ist er auf Rang 4. Auf Rang 3 steht Marco, der zwar konstant, aber ohne Tagessieg geflogen ist. FTV belohnt aber tendenziell Siege. Ich bin auf Rang 2, mit einem Tagessieg (0er von Jakob). Auf dem ersten Rang ist Georg. Ebenfalls ohne Tagessieg, mit zwei guten Läufen an Tag 1 und 3, aber einem Streicher an Tag 2. Es wird mit 25% FTV geflogen und folgende Task Validity wurden erreicht: 98%, 54%, 99%. Jakob wird also einen Teil von seinem 0er vom Tag 1 nicht streichen können. Insgesamt eine sehr spannende Ausgangslage für den vierten Tag. Werfen wir einen Blick auf die Rangliste:
